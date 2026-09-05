@@ -1,4 +1,4 @@
-export const image = [
+export const images = [
   "https://images.unsplash.com/photo-1783946194662-494fa19393a9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw3fHx8ZW58MHx8fHx8",
 
   "https://images.unsplash.com/photo-1746928864360-4f97b4d4480f?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxMHx8fGVufDB8fHx8fA%3D%3D",

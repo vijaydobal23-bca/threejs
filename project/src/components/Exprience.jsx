@@ -1,5 +1,8 @@
 import React from "react";
 import { useControls } from "leva";
+import FanGroup from "./FanGroup";
+import { images } from "../data/images";
+
 
 const Exprience = () => {
   const { x,y } = useControls("boxPosition",{
@@ -9,10 +12,7 @@ const Exprience = () => {
 
   return (
     <>
-      <mesh >
-        <boxGeometry args={[x, y, 1]} />
-        <meshBasicMaterial color="red" />
-      </mesh>
+      <FanGroup/>
     </>
   );
 };
